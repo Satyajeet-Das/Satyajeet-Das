@@ -57,5 +57,5 @@ When I'm not coding, I love:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 **Open to Opportunities**
+Looking for exciting opportunities to work on impactful **Software Engineer**, **Full-Stack Development** and **Open-Source Projects**. Let’s connect! 🚀
