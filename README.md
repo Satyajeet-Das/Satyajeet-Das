@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate developer constantly exploring ne
 
 🌱 I’m currently learning:
 - Backend development with **Node.js**, **Express.js**, and **Prisma**.
-- Advanced front-end development using **React.js**, **Next.js**, and **Tailwind CSS**.
+- Advanced front-end development using **React.js** and **Next.js**.
 - Cross-platform mobile app development with **Flutter**.
 
 💬 Ask me about:
@@ -31,8 +31,6 @@ Welcome to my GitHub profile! I'm a passionate developer constantly exploring ne
 ⚡ Fun fact:
 When I'm not coding, I love:
 - Playing **table tennis 🏓** and diving into new books 📚.
-- Watching TV shows instead of gaming (ask me about my favorites!).
-- Creating entertaining coding videos inspired by **Developer Rahul** and **Joma Tech**.
 
 ---
 
