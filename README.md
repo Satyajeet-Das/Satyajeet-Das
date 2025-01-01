@@ -1,6 +1,6 @@
 # 🌟 Hi there, I'm Satyajeet Das 👋
 
-Welcome to my GitHub profile! I'm a passionate developer constantly exploring new technologies and improving my skills. Here's a little about me:
+Welcome to my GitHub profile! I'm an enthusiastic developer with a passion for exploring cutting-edge technologies and continually honing my skills. Here's a glimpse into my journey:
 
 ---
 
